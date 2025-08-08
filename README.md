@@ -109,7 +109,7 @@ This script lets you move the sprite using the arrow keys or WASD. Here's a brea
 > ℹ️ **C# Note** The f after 5 in the assignment statement for moveSpeed tells C# that the number is a **floating point** number, the programming name for a **real number** or decimal.  A moveSpeed of 5 without the f would be an **integer** or **whole number**
 
 #### Detailed Script Explanation
-Click [here](https://github.com/bakkertj/Interactive-Storytelling/blob/main/Tutorials/Simple%202D%20Scene%20Script.md) for a more detailed line-by-line explanation of the script.
+Click [here](https://github.com/ART-3364-Interactive-Storytelling/Simple-2D-Scene/blob/main/Simple%202D%20Scene%20Script.md) for a more detailed line-by-line explanation of the script.
 
 ---
 
