@@ -62,7 +62,7 @@ This tutorial is beginner-friendly and assumes **no prior coding experience**—
 #### Create the Script
 
 1. In the **Project** window, right-click in the `Assets` folder
-2. Select `Create` → `C# Script`
+2. Select `Create` → `Monobehaviour Script`
 3. Name the script `PlayerMovement`
 4. Drag the script onto the `Player` object in the **Hierarchy**
 
